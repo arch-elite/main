@@ -10,7 +10,7 @@
 .banner{
     width: 100%;
     height: 100vh;
-    background-image:linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(.../assets/img/comp.JPG) ;
+    background-image:linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(./assets/img/comp.JPG);
     background-size: cover;
     background-position: center;
 
@@ -80,9 +80,10 @@ a:hover{
 
 body{
     min-height: 200vh;
-    background-image:linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(../assets/img/Designer black.png);
+    background-image:linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(./assets/img/Designer black.png);
     display:flex;
     flex-flow:column nowrap;
+   background-image:linear-gradient(black,grey);
 }
 header{
     margin:0;
