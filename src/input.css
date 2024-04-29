@@ -83,7 +83,7 @@ body{
     background-image:linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(../assets/img/Designer black.png);
     display:flex;
     flex-flow:column nowrap;
-   background-image:linear-gradient(black,grey);
+   background-image:white;
 }
 header{
     margin:0;
@@ -96,8 +96,8 @@ body{
     max-width: 600vw;
     font-size:larger ;
     font-family: 'Times New Roman', Times, serif;
-    color: aliceblue;
-    background-color:black ;
+    color: black;
+    background-color:white ;
 
     
 }
